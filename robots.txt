@@ -1,5 +1,5 @@
 # ============================================================
-# robots.txt — omnivueai.com
+# robots.txt, omnivueai.com
 # Last updated: 2026-05-19
 # Policy: open to search engines and AI / generative crawlers.
 #         Blocked: Internet Archive, Wayback Machine, Heritrix.
@@ -14,7 +14,7 @@ Allow: /
 
 
 # ------------------------------------------------------------
-# Major search engines — explicit allows (for clarity)
+# Major search engines, explicit allows (for clarity)
 # ------------------------------------------------------------
 User-agent: Googlebot
 Allow: /
@@ -48,7 +48,7 @@ Allow: /
 
 
 # ------------------------------------------------------------
-# AI / generative engine crawlers — explicitly welcomed.
+# AI / generative engine crawlers, explicitly welcomed.
 # Listing each one makes intent unambiguous for AEO / GEO,
 # and protects allows if a future default rule changes.
 # ------------------------------------------------------------
