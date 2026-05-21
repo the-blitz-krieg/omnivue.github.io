@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+  <!-- Outer ring -->
+  <circle cx="16" cy="16" r="14.5" stroke="currentColor" stroke-width="1.5" fill="none"/>
+  <!-- Left lens arc -->
+  <path d="M11 6.5 A11.5 11.5 0 0 0 11 25.5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Right lens arc, overlapping -->
+  <path d="M21 6.5 A11.5 11.5 0 0 1 21 25.5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Signal dot -->
+  <circle cx="16" cy="16" r="1.6" fill="#00E58A"/>
+</svg>
